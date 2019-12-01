@@ -1,0 +1,8 @@
+GridPane > *:hover {
+    -fx-border-color: #000000;
+}
+
+GridPane > Text {
+     -fx-line-spacing: 20px;
+     -fx-text-inner-color: red;
+}
